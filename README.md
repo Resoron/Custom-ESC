@@ -26,18 +26,12 @@ Understand motor control and power electronics
 
 Document the design of your project as it develops.
 
-This may include:
+<img width="981" height="545" alt="image" src="https://github.com/user-attachments/assets/b25ce65a-f18c-4747-b6e5-930e59db9380" />
 
-- Block diagrams
-- Circuit schematics
-- PCB designs
-- CAD models
-- Software architecture
-- Hardware selection
-- Calculations
-- Testing methods
+<img width="985" height="547" alt="image" src="https://github.com/user-attachments/assets/00c6c0b4-85d7-4941-8b74-d9e146e27a6b" />
 
-Explain major design decisions and why you made them.
+<img width="982" height="556" alt="image" src="https://github.com/user-attachments/assets/260dc1b6-da94-4f49-8e98-188e98ec16f7" />
+
 
 ## Bill of Materials
 
@@ -63,7 +57,7 @@ Document the major components and materials used for the project.
 | **Total per board** | | **$17.91** | |
 | Servo tester (Tizuqe High Accuracy Servo Tester) | 1 | $10.00 | [Link](https://www.amazon.com/s?k=Tizuqe+servo+tester) |
 | Motor (T-MOTORHOBBY F60 Pro V 1750KV) | 3 | $81.00 | [Link](https://www.amazon.com/s?k=T-Motor+F60+Pro+V+1750KV) |
-| PCB fabrication (PCBWay/JLCPCB) | 1 | $40.00 | [Link](https://jlcpcb.com) |
+| PCB fabrication (JLCPCB) | 1 | $40.00 | [Link](https://jlcpcb.com) |
 | Stencil | 1 | $15.00 | [Link](https://jlcpcb.com) |
 | Shipping and tariffs | 1 | $45.00 | — |
 | **Total for project (4 boards)** | | **$262.64** | |
